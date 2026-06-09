@@ -43,6 +43,7 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 
 🗺️ Roadmap
+
 ⬜ TryHackMe — Pre-Security path<br>
 ⬜ TryHackMe — Cyber Security 101<br>
 ⬜ TryHackMe — Jr Penetration Tester path<br>
@@ -52,6 +53,7 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 ⬜ TryHackMe — Red Teaming
 
 📜 In-progress certifications
+
 ⏳ CompTIA Network+<br>
 ⏳ CompTIA Security+<br>
 ⏳ eJPT (eLearnSecurity Junior Penetration Tester)<br>
