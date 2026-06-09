@@ -16,10 +16,15 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 🧠 Currently learning
 
 💻 Linux/Windows fundamentals
+
 🌐 Networking (OSI model, Protocols, Ports, etc)
+
 🔎 Reconnaissance & enumeration
+
 🕸️ Web application vulnerabilities (OWASP Top 10)
+
 🐍 Python & Bash scripting for security
+
 
 🛠️ Toolbox (learning / using)
 <p>
@@ -44,13 +49,13 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 🗺️ Roadmap
 
-⬜ TryHackMe — Pre-Security path<br>
-⬜ TryHackMe — Cyber Security 101<br>
-⬜ TryHackMe — Jr Penetration Tester path<br>
-⬜ TryHackMe — SOC Level 1<br>
-⬜ TryHackMe — Web Application Pentesting<br>
-⬜ TryHackMe — Web Application Red Teaming<br>
-⬜ TryHackMe — Red Teaming
+⬜ TryHackMe - Pre-Security path<br>
+⬜ TryHackMe - Cyber Security 101<br>
+⬜ TryHackMe - Jr Penetration Tester path<br>
+⬜ TryHackMe - SOC Level 1<br>
+⬜ TryHackMe - Web Application Pentesting<br>
+⬜ TryHackMe - Web Application Red Teaming<br>
+⬜ TryHackMe - Red Teaming
 
 📜 In-progress certifications
 
