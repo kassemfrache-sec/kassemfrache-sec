@@ -10,7 +10,7 @@
 </p>
 
 👋 About me
-I'm a cybersecurity student focused on the offensive side of security — penetration testing, web application security, and red teaming.
+I'm a cybersecurity student focused on the offensive side of security penetration testing, web application security, and red teaming.
 What pulled me in was curiosity: understanding how attacks actually work, how systems get compromised, and what's really happening beneath the surface. Learning to think like an attacker has changed how I see every system around me. My goal is to grow into a professional penetration tester, and this GitHub is where I document the journey.
 
 🧠 Currently learning
@@ -42,12 +42,8 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 🗺️ Roadmap
 
- TryHackMe — Pre-Security path
- TryHackMe — Jr Penetration Tester path
- Hack The Box — Starting Point
- First write-up published
- eJPT certification
- First bug bounty submission
+ TryHackMe - Pre-Security path
+ TryHackMe - Jr Penetration Tester path
 
 
 📫 Connect
