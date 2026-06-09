@@ -43,23 +43,19 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 
 🗺️ Roadmap
-
- TryHackMe — Pre-Security path
- TryHackMe — Cyber Security 101
- TryHackMe — Jr Penetration Tester path
- TryHackMe — SOC Level 1
- TryHackMe — Web Application Pentesting
- TryHackMe — Web Application Red Teaming
- TryHackMe — Red Teaming
-
+⬜ TryHackMe — Pre-Security path<br>
+⬜ TryHackMe — Cyber Security 101<br>
+⬜ TryHackMe — Jr Penetration Tester path<br>
+⬜ TryHackMe — SOC Level 1<br>
+⬜ TryHackMe — Web Application Pentesting<br>
+⬜ TryHackMe — Web Application Red Teaming<br>
+⬜ TryHackMe — Red Teaming
 📜 In-progress certifications
-
-⏳ CompTIA Network+
-⏳ CompTIA Security+
-⏳ eJPT (eLearnSecurity Junior Penetration Tester)
-⏳ SAL1 (Security Analyst Level 1)
+⏳ CompTIA Network+<br>
+⏳ CompTIA Security+<br>
+⏳ eJPT (eLearnSecurity Junior Penetration Tester)<br>
+⏳ SAL1 (Security Analyst Level 1)<br>
 ⏳ PT1 (Penetration Tester Level 1)
-
 
 📫 Connect
 <p>
