@@ -45,7 +45,6 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
  TryHackMe - Pre-Security path
  TryHackMe - Jr Penetration Tester path
 
-
 📫 Connect
 <p>
   <a href="https://www.linkedin.com/in/kassem-frache-78346a369">
