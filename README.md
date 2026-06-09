@@ -10,13 +10,13 @@
 </p>
 
 👋 About me
-I'm a cybersecurity student focused on the offensive side of security penetration testing, web application security, and red teaming.
+I'm a cybersecurity student focused on the offensive side of security — penetration testing, web application security, and red teaming.
 What pulled me in was curiosity: understanding how attacks actually work, how systems get compromised, and what's really happening beneath the surface. Learning to think like an attacker has changed how I see every system around me. My goal is to grow into a professional penetration tester, and this GitHub is where I document the journey.
 
 🧠 Currently learning
 
-🐧 Linux fundamentals & command line
-🌐 Computer networking (TCP/IP, DNS, HTTP)
+💻 Linux/Windows fundamentals
+🌐 Networking (OSI model, Protocols, Ports, etc)
 🔎 Reconnaissance & enumeration
 🕸️ Web application vulnerabilities (OWASP Top 10)
 🐍 Python & Bash scripting for security
@@ -35,6 +35,8 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 <p>
   <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
   <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black">
+  <img src="https://img.shields.io/badge/-PortSwigger%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white">
+  <img src="https://img.shields.io/badge/-picoCTF-CC0033?style=flat-square&logo=ctftime&logoColor=white">
 </p>
 
 📚 Lab write-ups and notes live in my security-learning repo.
@@ -42,8 +44,22 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 🗺️ Roadmap
 
- TryHackMe - Pre-Security path
- TryHackMe - Jr Penetration Tester path
+ TryHackMe — Pre-Security path
+ TryHackMe — Cyber Security 101
+ TryHackMe — Jr Penetration Tester path
+ TryHackMe — SOC Level 1
+ TryHackMe — Web Application Pentesting
+ TryHackMe — Web Application Red Teaming
+ TryHackMe — Red Teaming
+
+📜 In-progress certifications
+
+⏳ CompTIA Network+
+⏳ CompTIA Security+
+⏳ eJPT (eLearnSecurity Junior Penetration Tester)
+⏳ SAL1 (Security Analyst Level 1)
+⏳ PT1 (Penetration Tester Level 1)
+
 
 📫 Connect
 <p>
