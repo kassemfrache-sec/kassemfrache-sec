@@ -15,36 +15,46 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 ---
 
-🧠 Currently learning
+Currently learning:
 
-💻 Linux/Windows fundamentals
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0591137c-bdbd-421a-96de-0d0d238743ad" /> Linux/Windows fundamentals (CLI, PS)
 
-🌐 Networking (OSI model, Protocols, Ports, etc)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8d2eb105-d598-4ab7-9783-fc9ef003b603" />  Networking (OSI model, Protocols, Ports, etc)
+ 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e745777c-540a-44ae-8062-687ad1649d85" /> Active Directory
 
-🔎 Reconnaissance & enumeration
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/dd6ad93a-0237-4f05-b36b-9d19ab31bd7b" />  Adversarial Methodology
 
-🕸️ Web application vulnerabilities (OWASP Top 10)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/eb6d0dd8-4dfe-4d13-8eaf-4cefedf327ff" /> Defensive Methodology  
 
-🐍 Python & Bash scripting for security
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/65ef08a9-4d3f-4f99-9315-86cfbdfb7f82" />  Web application vulnerabilities (OWASP Top 10)
 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/951b5f77-0775-4c46-a24f-1df815d48e79" />  Python & Bash scripting for security
 
-🛠️ Toolbox (learning / using)
+---
+ 
+🛠️ Toolbox (learning)
 <p>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
 </p>
 
+---
+
 🎯 Practicing on
 
 <p>
   <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
+  
   <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black">
+  
   <img src="https://img.shields.io/badge/-PortSwigger%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white">
+  
+  ![VMware](https://img.shields.io/badge/-607078?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto)
 </p>
 
 ---
@@ -57,7 +67,7 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 🗺️ Roadmap
 
-TryHackMe Paths
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4f66e4b3-d123-4759-9f06-6d5947bd506c" /> TryHackMe Path
 
 | Paths | Status |
 |-------|--------|
@@ -66,12 +76,12 @@ TryHackMe Paths
 | Jr Penetration Tester | Not started |
 | SOC Level 1 | Not started |
 
-
-PortSwigger Academy
+---
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3931d588-46df-448c-a562-51f99a4c7413" /> PortSwigger Path
 
 | Paths | Status |
 |-------|--------|
-| Web cache deception | 🏃 In-Progress |
+| Web cache deception | Not started |
 | WebSockets vulnerabilities | Not started |
 | Authentication vulnerabilities | Not started |
 | Server-side request forgery attacks (SSRF) | Not started |
