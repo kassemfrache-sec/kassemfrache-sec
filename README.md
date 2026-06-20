@@ -13,6 +13,8 @@
 I'm a cybersecurity student focused on the offensive side of security penetration testing, web application security, and red teaming.
 What pulled me in was curiosity: understanding how attacks actually work, how systems get compromised, and what's really happening beneath the surface. Learning to think like an attacker has changed how I see every system around me. My goal is to grow into a professional penetration tester, and this GitHub is where I document the journey.
 
+---
+
 🧠 Currently learning
 
 💻 Linux/Windows fundamentals
@@ -43,22 +45,37 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
   <img src="https://img.shields.io/badge/-PortSwigger%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white">
 </p>
 
-📚 Lab write-ups and notes live in my
-thm-writeups repo
+📚 Lab write-ups and notes live in my write-ups repo
 
+---
 
 🗺️ Roadmap
 
-TryHackMe path
-⬜ TryHackMe - Pre-Security path<br>
-⬜ TryHackMe - Cyber Security 101<br>
-⬜ TryHackMe - Jr Penetration Tester path<br>
-⬜ TryHackMe - SOC Level 1<br>
-⬜ TryHackMe - Web Application Pentesting<br>
-⬜ TryHackMe - Web Application Red Teaming<br>
-⬜ TryHackMe - Red Teaming
+TryHackMe Paths
 
-PortSwigger Academy Path
+| Paths | Status |
+|-------|--------|
+| Pre Security | 🏃 In-Progress |
+| Cyber Security 101 | Not started |
+| Jr Penetration Tester | Not started |
+| SOC Level 1 | Not started |
+
+
+PortSwigger Academy
+
+| Paths | Status |
+|-------|--------|
+| Web cache deception | 🏃 In-Progress |
+| WebSockets vulnerabilities | Not started |
+| Authentication vulnerabilities | Not started |
+| Server-side request forgery attacks (SSRF) | Not started |
+| Prototype pollution | Not started |
+| Clickjacking (UI redressing) | Not started |
+| GrapgQL API vulnerabilities | Not started |
+| Cross-origin resource sharing (CORS) | Not started |
+| Path traversal | Not started |
+
+---
 
 📜 In-progress certifications
 
@@ -67,6 +84,8 @@ PortSwigger Academy Path
 ⏳ eJPT (eLearnSecurity Junior Penetration Tester)<br>
 ⏳ SAL1 (Security Analyst Level 1)<br>
 ⏳ PT1 (Penetration Tester Level 1)
+
+---
 
 📫 Connect
 <p>
