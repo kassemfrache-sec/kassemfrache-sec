@@ -45,7 +45,7 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
   <img src="https://img.shields.io/badge/-PortSwigger%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white">
 </p>
 
-📚 Lab write-ups and notes live in my write-ups repo
+📚 Lab write-ups [Veiw](write-ups)
 
 ---
 
