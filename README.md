@@ -43,11 +43,13 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
   <img src="https://img.shields.io/badge/-PortSwigger%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white">
 </p>
 
-📚 Lab write-ups and notes live in my security-learning repo.
+📚 Lab write-ups and notes live in my
+thm-writeups repo
 
 
 🗺️ Roadmap
 
+TryHackMe path
 ⬜ TryHackMe - Pre-Security path<br>
 ⬜ TryHackMe - Cyber Security 101<br>
 ⬜ TryHackMe - Jr Penetration Tester path<br>
@@ -55,6 +57,8 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 ⬜ TryHackMe - Web Application Pentesting<br>
 ⬜ TryHackMe - Web Application Red Teaming<br>
 ⬜ TryHackMe - Red Teaming
+
+PortSwigger Academy Path
 
 📜 In-progress certifications
 
