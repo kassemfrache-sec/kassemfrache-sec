@@ -49,9 +49,9 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 ---
 
-📚 [Lab write-ups](https://github.com/kassemfrache-sec/write-ups/REAME.md) — Write-ups
+📚 [Lab write-ups](https://github.com/kassemfrache-sec/write-ups) — Write-ups
 
-📚 [Learning Logs](https://github.com/kassemfrache-sec/learning-journal/README.md) — Ongoing study notes
+📚 [Learning Logs](https://github.com/kassemfrache-sec/learning-journal) — Ongoing study notes
 
 ---
 
