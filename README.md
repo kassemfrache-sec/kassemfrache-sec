@@ -67,7 +67,7 @@ Currently learning:
 
 🗺️ Roadmap
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4f66e4b3-d123-4759-9f06-6d5947bd506c" /> TryHackMe Path
+<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/4f66e4b3-d123-4759-9f06-6d5947bd506c" />  TryHackMe Path
 
 | Paths | Status |
 |-------|--------|
@@ -77,7 +77,7 @@ Currently learning:
 | SOC Level 1 | Not started |
 
 ---
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3931d588-46df-448c-a562-51f99a4c7413" /> PortSwigger Path
+<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/3931d588-46df-448c-a562-51f99a4c7413" /> PortSwigger Path
 
 | Paths | Status |
 |-------|--------|
@@ -95,11 +95,14 @@ Currently learning:
 
 📜 In-progress certifications
 
-⏳ CompTIA Network+<br>
-⏳ CompTIA Security+<br>
-⏳ eJPT (eLearnSecurity Junior Penetration Tester)<br>
-⏳ SAL1 (Security Analyst Level 1)<br>
-⏳ PT1 (Penetration Tester Level 1)
+| Certifications | Status | Source |
+|----------------|--------|--------------------|
+| SEC0 | Not acquired | TryHackMe|
+| PT1 | Not acquired | TryHackMe |
+| SAL1 | Not acquired | TryHackMe |
+| eJPT | Not acquired | INE Security | 
+| CompTIA Network+ | Not acquired | CompTIA |
+| CompTIA Security+ | Not acquired | CompTIA |
 
 ---
 
