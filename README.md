@@ -38,14 +38,20 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
 </p>
+
 🎯 Practicing on
+
 <p>
   <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
   <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black">
   <img src="https://img.shields.io/badge/-PortSwigger%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white">
 </p>
 
+---
+
 📚 Lab write-ups [Veiw](write-ups)
+
+📚 Learning Logs [Veiw](learning-journal)
 
 ---
 
