@@ -49,9 +49,9 @@ What pulled me in was curiosity: understanding how attacks actually work, how sy
 
 ---
 
-📚 Lab write-ups [Veiw](write-ups)
+📚 Lab write-ups [Veiw](write-ups/README.md)
 
-📚 Learning Logs [Veiw](learning-journal)
+📚 Learning Logs [Veiw](learning-journal/README.md)
 
 ---
 
